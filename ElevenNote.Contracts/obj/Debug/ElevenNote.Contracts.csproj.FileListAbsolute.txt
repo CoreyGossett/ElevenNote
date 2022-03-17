@@ -1,0 +1,16 @@
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll.config
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.pdb
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.xml
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.AssemblyReference.cache
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CoreCompileInputs.cache
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
+D:\sd116\RedBadge\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
